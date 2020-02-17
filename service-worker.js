@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/OPES-FREEDOM/precache-manifest.c7b0aac8cb827128f68ac6c11f0b7eef.js"
+  "/OPES-FREEDOM/precache-manifest.8d4ad6cb0e90058ef0d84ebf3ea77a82.js"
 );
 
 self.addEventListener('message', (event) => {
