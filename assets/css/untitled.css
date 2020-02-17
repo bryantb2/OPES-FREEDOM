@@ -1,0 +1,20 @@
+.portfolio-box .img-fluid, .img-thumbnail {
+  height: 500px;
+  min-width: 100%;
+  object-fit: cover;
+}
+
+iframe {
+  height: 100%;
+}
+
+.fa.fa-check {
+}
+
+.sponsorIcon {
+  height: 217px;
+  width: 220px;
+  object-fit: cover;
+  padding: 5%;
+}
+

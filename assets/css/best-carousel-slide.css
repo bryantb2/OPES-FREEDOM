@@ -1,0 +1,172 @@
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../../../src/assets/img/arStoreRef.jpg');
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../../../src/assets/img/blonde2StoreRef.jpg');
+}
+
+h1.hero-title, h2.hero-title, h3.hero-title {
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  color: #fff;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+}
+
+.plat {
+  border-radius: 0px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 0 #048f83!important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #016090;
+  border-color: #016090;
+}
+
+.btn.btn-primary {
+  background-color: #048f83!important;
+  border-color: #048f83!important;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(0,123,255,.5);
+}
+
+* {
+  /*box-sizing: inherit;*/
+}
+
+*:before, *:after {
+  /*box-sizing: inherit;*/
+}
+
+span {
+  font-style: inherit;
+  font-weight: inherit;
+}
+
+.hero-title.d-flex.justify-content-lg-start.customPadding {
+  padding-left: 15%;
+}
+
+.customBackground {
+  background-image: url('../../../src/assets/img/arStoreRef.jpg');
+}
+
+form.formStyling {
+  font-family: 'Open Sans';
+}
+
+.formStyling legend {
+  font-weight: 500;
+}
+
+#addToCartButton {
+  background-color: white;
+  width: 100%;
+}
+
+.icon.ion-ios-locked-outline {
+  color: #fff;
+}
+
+.btn.btn-primary.btn-block {
+  background-color: #f05f41 !important;
+}
+
+.imageContainer {
+  /*width: 100%;*/
+  max-height: 300px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.productImageStyle {
+  /*width: 100%;*/
+  object-fit: contain;
+  height: 300px;
+}
+
+.row.cartHeaderRow {
+  height: 60px;
+}
+
+.row.cartItemRow {
+  min-height: 100px;
+}
+
+.col-3.align-self-center.text-light.d-flex.justify-content-center.itemImageContainer {
+  max-height: 175px;
+  /*width: 2px;*/
+  overflow: hidden;
+}
+
+.itemImageContainer .cartItemImage {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.itemImageContainer {
+  height: 350px;
+  overflow: hidden;
+  width: 100%;
+}
+
+#priceResetButton {
+  width: 100%;
+}
+
+.searchForm {
+  width: 40%;
+}
+
+.customCartRow {
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  padding: 0px !important;
+}
+
+.productPara {
+  text-align: center;
+  width: 100%;
+}
+
+@media (max-width: 991px) {
+  .row.cartHeaderRow.mb-2.cartHeadingStyle {
+    display: none;
+  }
+}
+
+.btn.btn-primary.cartButton {
+}
+
+.btn.btn-primary.cartButton.py-2.px-4 {
+  width: 80%;
+}
+
+.quantityInput {
+  width: 100%;
+  max-width: 250px;
+}
+

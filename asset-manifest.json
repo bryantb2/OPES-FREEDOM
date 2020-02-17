@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/OPES-FREEDOM/static/css/main.d26f65ff.chunk.css",
+    "main.js": "/OPES-FREEDOM/static/js/main.dc5d5b60.chunk.js",
+    "main.js.map": "/OPES-FREEDOM/static/js/main.dc5d5b60.chunk.js.map",
+    "runtime-main.js": "/OPES-FREEDOM/static/js/runtime-main.1fc4ecef.js",
+    "runtime-main.js.map": "/OPES-FREEDOM/static/js/runtime-main.1fc4ecef.js.map",
+    "static/js/2.6df23658.chunk.js": "/OPES-FREEDOM/static/js/2.6df23658.chunk.js",
+    "static/js/2.6df23658.chunk.js.map": "/OPES-FREEDOM/static/js/2.6df23658.chunk.js.map",
+    "index.html": "/OPES-FREEDOM/index.html",
+    "precache-manifest.2269b9d2962261da81da1f407b0a1cb2.js": "/OPES-FREEDOM/precache-manifest.2269b9d2962261da81da1f407b0a1cb2.js",
+    "service-worker.js": "/OPES-FREEDOM/service-worker.js",
+    "static/css/main.d26f65ff.chunk.css.map": "/OPES-FREEDOM/static/css/main.d26f65ff.chunk.css.map",
+    "static/js/2.6df23658.chunk.js.LICENSE": "/OPES-FREEDOM/static/js/2.6df23658.chunk.js.LICENSE",
+    "static/media/arBackgroundRef.jpg": "/OPES-FREEDOM/static/media/arBackgroundRef.56f8bd4e.jpg",
+    "static/media/Login.css": "/OPES-FREEDOM/static/media/arStoreRef.339d239c.jpg",
+    "static/media/bitcoinRef.jpg": "/OPES-FREEDOM/static/media/bitcoinRef.21064a36.jpg",
+    "static/media/SlideshowHeader.css": "/OPES-FREEDOM/static/media/energyDrinkStoreRef.0cd1acad.jpg",
+    "static/media/brccIconRef.jpg": "/OPES-FREEDOM/static/media/brccIconRef.4fee1bd0.jpg",
+    "static/media/clothingRef.jpg": "/OPES-FREEDOM/static/media/clothingRef.69129fc8.jpg",
+    "static/media/dailyWireRef.png": "/OPES-FREEDOM/static/media/dailyWireRef.090beac8.png",
+    "static/media/energyDrinkRef.jpg": "/OPES-FREEDOM/static/media/energyDrinkRef.606ae5cf.jpg",
+    "static/media/firearmPartsRef.jpg": "/OPES-FREEDOM/static/media/firearmPartsRef.8e050585.jpg",
+    "static/media/goaRef.png": "/OPES-FREEDOM/static/media/goaRef.56692c08.png",
+    "static/media/magaStoreRef.jpg": "/OPES-FREEDOM/static/media/magaStoreRef.ffbfbb9a.jpg",
+    "static/media/mwClothingRef.jpg": "/OPES-FREEDOM/static/media/mwClothingRef.690fe6ae.jpg",
+    "static/media/podcastRef.jpg": "/OPES-FREEDOM/static/media/podcastRef.62f0c165.jpg",
+    "static/media/trumpMAGARef.jpg": "/OPES-FREEDOM/static/media/trumpMAGARef.a72dacdf.jpg",
+    "static/media/usMilitarySearchPage.jpg": "/OPES-FREEDOM/static/media/usMilitarySearchPage.55deb480.jpg",
+    "static/media/whiteTransparent.png": "/OPES-FREEDOM/static/media/whiteTransparent.5613092d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fc4ecef.js",
+    "static/js/2.6df23658.chunk.js",
+    "static/css/main.d26f65ff.chunk.css",
+    "static/js/main.dc5d5b60.chunk.js"
+  ]
+}
