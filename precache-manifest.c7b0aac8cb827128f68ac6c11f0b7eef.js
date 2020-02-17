@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "031586722060992ddfc49a6bcd767d41",
+    "revision": "7d8708e0c8914b2f327cc8c173f16fd6",
     "url": "/OPES-FREEDOM/index.html"
   },
   {
-    "revision": "44be40092d35d43c2ae4",
+    "revision": "32ef9e793f76011966f7",
     "url": "/OPES-FREEDOM/static/css/main.d26f65ff.chunk.css"
   },
   {
-    "revision": "95369598fa3df1626848",
-    "url": "/OPES-FREEDOM/static/js/2.6df23658.chunk.js"
+    "revision": "833ac5081d573d348970",
+    "url": "/OPES-FREEDOM/static/js/2.4c7e990e.chunk.js"
   },
   {
     "revision": "fabe6e8bc1203e177b62cd9daebbf511",
-    "url": "/OPES-FREEDOM/static/js/2.6df23658.chunk.js.LICENSE"
+    "url": "/OPES-FREEDOM/static/js/2.4c7e990e.chunk.js.LICENSE"
   },
   {
-    "revision": "44be40092d35d43c2ae4",
-    "url": "/OPES-FREEDOM/static/js/main.dc5d5b60.chunk.js"
+    "revision": "32ef9e793f76011966f7",
+    "url": "/OPES-FREEDOM/static/js/main.656719c0.chunk.js"
   },
   {
     "revision": "3a36449c15b25372f575",
